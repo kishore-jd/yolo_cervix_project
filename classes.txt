@@ -1,0 +1,4 @@
+cervix
+cervix_roi
+red_patch
+white_patch
